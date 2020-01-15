@@ -1,4 +1,5 @@
 # Chartbusters-Prediction-Foretell-The-Popularity-Of-Songs
+![image](https://user-images.githubusercontent.com/37707687/72431243-5e137680-37ba-11ea-8654-770ece1b9640.png)
 
 One of our customers strongly believes in technology and has recently backed up its platform using Machine Learning and Artificial Intelligence. Based on data collected from multiple sources on different songs and various artist attributes our customer is excited to challenge the MachineHack community.
 
