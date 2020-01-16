@@ -36,9 +36,8 @@ Rank 4
 ## Notes
 
 | File                                                         | Score |
-| -------------------------------------------------------------| ------------- |
-| chartbusters-prediction-foretell-the-popularity_v54.ipynb
-  | fold    |
+| -------------------------------------------------------------| ------|
+| chartbusters-prediction-foretell-the-popularity_v54.ipynb    |    |
 | chartbusters-prediction-foretell-the-popularity_v59.ipynb    |    |
 | chartbusters-prediction-foretell-the-popularity_v72.ipynb    |    |
 | chartbusters-prediction-foretell-the-popularity_v85.ipynb    |    |
