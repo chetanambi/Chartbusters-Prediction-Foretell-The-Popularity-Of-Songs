@@ -35,9 +35,12 @@ Rank 4
 
 ## Notes
 
-| File                                    | Score         |
-| ----------------------------------------| ------------- |
-|       |    |
-|      |     |
-|      |     |
-| final-ensemble.ipynb                    | 0    |
+| File                                                         | Score |
+| -------------------------------------------------------------| ------------- |
+| chartbusters-prediction-foretell-the-popularity_v54.ipynb
+  | fold    |
+| chartbusters-prediction-foretell-the-popularity_v59.ipynb    |    |
+| chartbusters-prediction-foretell-the-popularity_v72.ipynb    |    |
+| chartbusters-prediction-foretell-the-popularity_v85.ipynb    |    |
+| chartbusters-prediction-foretell-the-popularity_v86.ipynb    |    |
+| final-ensemble.ipynb                                         |    |
