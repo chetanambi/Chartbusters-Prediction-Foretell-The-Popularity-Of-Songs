@@ -30,3 +30,5 @@ Can you predict how popular a song will be in the future?
 RMSE(Root Mean Squared Error)
 
 ## Leaderboard
+Rank 4
+![image](https://user-images.githubusercontent.com/37707687/72492038-e1c47600-3841-11ea-8cfe-689fa42d631a.png)
