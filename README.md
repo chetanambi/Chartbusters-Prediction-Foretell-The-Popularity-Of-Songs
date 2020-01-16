@@ -35,11 +35,12 @@ Rank 4
 
 ## Notes
 
-| File                                                         | Score |
-| -------------------------------------------------------------| ------|
-| chartbusters-prediction-foretell-the-popularity_v54.ipynb    |    |
-| chartbusters-prediction-foretell-the-popularity_v59.ipynb    |    |
-| chartbusters-prediction-foretell-the-popularity_v72.ipynb    |    |
-| chartbusters-prediction-foretell-the-popularity_v85.ipynb    |    |
-| chartbusters-prediction-foretell-the-popularity_v86.ipynb    |    |
-| final-ensemble.ipynb                                         |    |
+| File                                                      | Fold     | Score        |
+| ----------------------------------------------------------| ---------|--------------|
+| chartbusters-prediction-foretell-the-popularity_v54.ipynb | fold_7   | 520151.69581 |
+| chartbusters-prediction-foretell-the-popularity_v59.ipynb | fold_3   | 511965.95912 |
+| chartbusters-prediction-foretell-the-popularity_v72.ipynb | fold_6   | 525530.79732 |
+| chartbusters-prediction-foretell-the-popularity_v85.ipynb | fold_6   | 518122.56894 |
+| chartbusters-prediction-foretell-the-popularity_v86.ipynb | fold_5   | 514858.48954 |
+| chartbusters-prediction-foretell-the-popularity_v86.ipynb | fold_6   | 505227.74804 |
+| final-ensemble.ipynb                                      |          | 482023.65000 |
