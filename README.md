@@ -44,8 +44,3 @@ Rank 4
 | chartbusters-prediction-foretell-the-popularity_v86.ipynb | fold_5   | 514858.48954 |
 | chartbusters-prediction-foretell-the-popularity_v86.ipynb | fold_6   | 505227.74804 |
 | final-ensemble.ipynb                                      |          | 482023.65000 |
-
-## Leaderboard
-- Public LB: 22/883
-- Private LB: 25/883
-
